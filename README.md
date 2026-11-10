@@ -1,4 +1,4 @@
-<img src="./assets/Ingrid%20Melo.png" width="300">
+<img src="./assets/Ingrid%20Melo.png" width="100%">
 
 #
 
